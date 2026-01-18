@@ -1,0 +1,5 @@
+{
+  "name": "TermuxLib - Ultimate Package Library",
+  "description": "A comprehensive library for Termux packages and pip libraries with quick installation commands and easy searching.",
+  "requestFramePermissions": []
+}
